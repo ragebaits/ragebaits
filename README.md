@@ -9,3 +9,18 @@
         <b><a target="_blank" href="https://www.t.me/sulfamic/">Anirudh</a></b>
     </samp>
 </h3>
+
+<br>
+
+<p align="center">
+<samp>
+「 Full Stack Developer building scalable web apps, APIs, and modern tools 」
+</samp>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Lead+Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
+    alt="Typing SVG"
+  />
+</p>
