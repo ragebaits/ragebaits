@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=600&height=45&lines=I+build+with:" />
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=44&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=600&height=45&lines=I build+%26+with" />
 </p>
 
 <p align="center">
