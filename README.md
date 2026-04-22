@@ -61,6 +61,17 @@
 
 <br>
 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=6"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Github+Stats:" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=2"/>
+</p>
+
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ragebaits&theme=tokyonight&background=0f2027&hide_border=true&ring=2c5364&fire=2c5364&currStreakLabel=8E9EAB" />
 </p>
