@@ -28,7 +28,15 @@
 <br>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=3"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=6"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=50&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Tech+Arsenal" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=2"/>
 </p>
 
 <br>
