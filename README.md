@@ -116,7 +116,7 @@ Contact.
 <div align="center">
 
 <a href="https://t.me/sulfamic" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-sulfamic-0A66C2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a"/>
+  <img src="https://img.shields.io/badge/Telegram-sulfamic-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a"/>
 </a>
 &ensp;
 <a href="mailto:softcoping@gmail.com">
