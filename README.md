@@ -25,6 +25,13 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/Spq2koF9hi9qmOOavS/giphy.gif"/>
 
+<br>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=3"/>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1c1c1c&height=140&section=footer&reversal=true" />
