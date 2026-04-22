@@ -5,7 +5,7 @@
 <!-- Title -->
 <h3 align="center">
     <samp>
-        &gt; Hey There!, I am
+        &gt; Wsg fam, I'm 
         <b><a target="_blank" href="https://www.t.me/sulfamic/">Anirudh</a></b>
     </samp>
 </h3>
