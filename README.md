@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=650&height=45&lines=Tech+Arsenal" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=70&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=800&height=65&lines=Tech+Arsenal" />
 </p>
 
 <p align="center"><b>Main Stack</b></p>
