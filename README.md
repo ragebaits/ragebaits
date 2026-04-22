@@ -91,5 +91,21 @@
 </p>
 
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=2"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ragebaits&style=for-the-badge&color=2c5364&labelColor=0f2027" alt="Profile Views"/>
+  
+  <a href="https://github.com/ragebaits?tab=followers">
+    <img src="https://img.shields.io/github/followers/ragebaits?style=for-the-badge&color=2c5364&labelColor=0f2027" alt="Followers"/>
+  </a>
+  
+  <a href="https://github.com/ragebaits?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ragebaits?affiliations=OWNER&style=for-the-badge&color=2c5364&labelColor=0f2027" alt="Stars"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1c1c1c&height=140&section=footer&reversal=true" />
 </p>
