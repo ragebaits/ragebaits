@@ -83,5 +83,13 @@
 </p>
 
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=2"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragebaits&bg_color=0f2027&color=8E9EAB&line=2c5364&point=8E9EAB&area_color=2c5364&area=true&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1c1c1c&height=140&section=footer&reversal=true" />
 </p>
