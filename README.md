@@ -32,11 +32,27 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=50&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Tech+Arsenal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=650&height=45&lines=Tech+Arsenal" />
 </p>
 
+<p align="center"><b>Main Stack</b></p>
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=2"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,kotlin&theme=dark" />
+</p>
+
+<p align="center"><b>Backend & Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,mysql,postgres,mongodb,firebase&theme=dark" />
+</p>
+
+<p align="center"><b>Frontend & Design</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma,react,vue&theme=dark" />
+</p>
+
+<p align="center"><b>DevOps & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,aws,postman,vscode,github&theme=dark" />
 </p>
 
 <br>
