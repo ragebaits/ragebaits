@@ -107,5 +107,28 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=400&height=50&lines=Contact"
+    alt="Contact"
+  />
+</p>
+
+<div align="center">
+
+<a href="https://t.me/sulfamic" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-sulfamic-0A66C2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a"/>
+</a>
+&ensp;
+<a href="mailto:softcoping@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-softcoping%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
+</a>
+&ensp;
+<a href="https://github.com/ragebaits" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ragebaits-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+</div>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1c1c1c&height=140&section=footer&reversal=true" />
 </p>
