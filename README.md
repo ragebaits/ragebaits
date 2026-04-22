@@ -3,12 +3,9 @@
 </p>
 
 <!-- Title -->
-<h3 align="center">
-    <samp>
-        &gt; Wsg fam, I'm 
-        <b><a target="_blank" href="https://www.t.me/sulfamic/">Anirudh</a></b>
-    </samp>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%3E+Wsg+fam%2C+I'm+Anirudh" />
+</p>
 
 <br>
 
