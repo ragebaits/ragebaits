@@ -32,11 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=44&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=600&height=45&lines=I build+%26+with" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=2"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=44&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=600&height=45&lines=I+build+with" />
 </p>
 
 <p align="center"><b>Main Stack</b></p>
@@ -66,10 +62,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Itim&size=44&duration=1&pause=9999999&color=8E9EAB&center=true&vCenter=true&repeat=false&width=600&height=45&lines=GitHub+Stats" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,30:2c5364,70:2c5364,100:1c1c1c&height=2"/>
 </p>
 
 <p align="center">
