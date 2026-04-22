@@ -14,7 +14,8 @@
 
 <p align="center">
 <samp>
-「 Full Stack Developer building scalable web apps, APIs, and modern tools 」
+<samp>
+「 Student Developer building web apps, APIs, bots, and automation tools 」
 </samp>
 </p>
 
