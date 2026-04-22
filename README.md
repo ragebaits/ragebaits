@@ -22,3 +22,8 @@
     alt="Typing SVG"
   />
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1c1c1c&height=140&section=footer&reversal=true" />
+</p>
