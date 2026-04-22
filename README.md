@@ -62,5 +62,15 @@
 <br>
 
 <p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ragebaits&theme=tokyonight&background=0f2027&hide_border=true&ring=2c5364&fire=2c5364&currStreakLabel=8E9EAB" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragebaits&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragebaits&theme=github_dark" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragebaits&theme=github_dark" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1c1c1c&height=140&section=footer&reversal=true" />
 </p>
